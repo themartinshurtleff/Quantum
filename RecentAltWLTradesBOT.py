@@ -14,7 +14,7 @@ intents.messages = True
 intents.message_content = True
 Quantum = discord.Client(intents=intents)
 
-DISCORD_TOKEN = "MTMyOTcwNjgxMzI2ODE2ODc2NA.GH2JOo.vyu1o2sPY1YU8MRsdzxSTTnUbKSVp0b0OibncY"  # Replace with your bot token
+DISCORD_TOKEN = ""  # Replace with your bot token
 DISCORD_CHANNEL_ID = 1309266576683569203  # Replace with your channel ID (integer)
 
 # Binance tracking setup
